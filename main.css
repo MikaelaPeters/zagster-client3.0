@@ -1,0 +1,22 @@
+body {
+font-family: "HelveticaNeue","Arial",sans-serif;
+text-align: center
+}
+
+h1{
+    font-size: 4em;
+    color: orange;
+}
+
+h2{
+    font-size: 2em;
+    color: white
+}
+
+p{
+    color: white
+}
+
+div#datavisualization {
+    background: orange;
+  }
