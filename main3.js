@@ -80,7 +80,7 @@ function updateChart() {
         data: {
             labels: ['January','February','March','April','May','June','July','August','September', 'October', 'November','December'],
             datasets: [{
-                label: 'Zagster Number of Rides Per Month in 2017',
+                label: 'Number of Zagster Rides Per Month in 2017',
                 backgroundColor: 'grey',
                 borderColor: 'black',
                 //data: [0, 10, 5, 2, 20, 30, 45]
